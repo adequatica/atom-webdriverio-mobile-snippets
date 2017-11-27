@@ -1,6 +1,6 @@
 {
   "name": "webdriverio-mobile-snippets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Atom snippets for WebdriverIO mobile API",
   "keywords": [
     "webdriver",
@@ -11,7 +11,9 @@
     "commands",
     "selenium",
     "appium",
-    "api"
+    "mobile",
+    "android",
+    "ios"
   ],
   "repository": {
     "type": "git",

@@ -56,6 +56,13 @@
         'descriptionMoreURL': 'http://webdriver.io/api/mobile/getCurrentDeviceActivity.html'
         'rightLabelHTML': '<span style="color:#ea5906">getCurrentDeviceActivity()</span> Android'
 
+    'getCurrentPackage()'
+        'prefix': 'getCurrentPackage'
+        'body': 'getCurrentPackage()'
+        'description': 'Get current device package'
+        'descriptionMoreURL': 'http://webdriver.io/api/mobile/getCurrentPackage.html'
+        'rightLabelHTML': '<span style="color:#ea5906">getCurrentPackage()</span> Android'
+
     'getDeviceTime()':
         'prefix': 'getDeviceTime'
         'body': 'getDeviceTime()'
@@ -336,6 +343,13 @@
         'descriptionMoreURL': 'http://webdriver.io/api/mobile/toggleLocationServices.html'
         'rightLabelHTML': '<span style="color:#ea5906">toggleLocationServices()</span> Android'
 
+    'toggleTouchIdEnrollment()':
+        'prefix': 'toggleTouchIdEnrollment'
+        'body': 'toggleTouchIdEnrollment(${1:match})$2'
+        'description': 'Toggle enroll touchId for iOS Simulator'
+        'descriptionMoreURL': 'http://webdriver.io/api/mobile/toggleTouchIdEnrollment.html'
+        'rightLabelHTML': '<span style="color:#ea5906">toggleTouchIdEnrollment()</span> iOS'
+
     'toggleWiFi()':
         'prefix': 'toggleWiFi'
         'body': 'toggleWiFi()'
@@ -360,7 +374,7 @@
     'touchId()':
         'prefix': 'touchId'
         'body': 'touchId(${1:match})$2'
-        'description': 'Simulate Touch ID with either valid or invalid fingerprint'
+        'description': 'Simulate Touch ID with either valid (match == true) or invalid (match == false) fingerprint'
         'descriptionMoreURL': 'http://webdriver.io/api/mobile/touchId.html'
         'rightLabelHTML': '<span style="color:#ea5906">touchId()</span> iOS'
 
