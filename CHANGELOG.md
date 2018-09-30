@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0 - 2018-09-30
+
+* Support TypeScript.
+
 ## 0.2.0 - 2017-11-27
 
 * Add 2 new API commands: getCurrentPackage() and toggleTouchIdEnrollment().
