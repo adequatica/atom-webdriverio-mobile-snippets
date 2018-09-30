@@ -1,6 +1,6 @@
 {
   "name": "webdriverio-mobile-snippets",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "coffeelintConfig": {
     "max_line_length": {
       "level": "ignore"

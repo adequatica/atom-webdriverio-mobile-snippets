@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.3.2 - 2018-09-30
+## 0.3.3 - 2018-09-30
 
 * Arrange keywords in alphabetical order.
 
