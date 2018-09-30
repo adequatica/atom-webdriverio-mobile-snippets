@@ -3,7 +3,7 @@
 ## 0.3.1 - 2018-09-30
 
 * Fix bug with unexpected newline;
-* Add CoffeLint config.
+* Add [CoffeeLint](https://github.com/clutchski/coffeelint) config.
 
 ## 0.3.0 - 2018-09-30
 
