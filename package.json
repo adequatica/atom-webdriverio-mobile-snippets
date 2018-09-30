@@ -8,17 +8,20 @@
   },
   "description": "Atom snippets for WebdriverIO mobile API",
   "keywords": [
-    "webdriver",
-    "webdriverio",
-    "webdriver.io",
-    "snippets",
+    "android",
+    "appium",
+    "BDD",
     "bindings",
     "commands",
-    "selenium",
-    "appium",
+    "ios",
     "mobile",
-    "android",
-    "ios"
+    "selenium",
+    "snippets",
+    "test",
+    "testing",
+    "webdriver",
+    "webdriverio",
+    "webdriver.io"
   ],
   "repository": {
     "type": "git",

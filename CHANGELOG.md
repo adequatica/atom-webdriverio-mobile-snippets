@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.2 - 2018-09-30
+
+* Arrange keywords in alphabetical order.
+
 ## 0.3.1 - 2018-09-30
 
 * Fix bug with unexpected newline;
