@@ -1,8 +1,8 @@
-# Atom snippets for WebdriverIO mobile API
+# Atom snippets for WebdriverIO v4 mobile API
 
-[WebdriverIO](http://webdriver.io/) is an open source testing utility for Node.js. It has all implementations of [WebDriver protocol](https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol) commands and also supports special bindings for [Appium](http://appium.io/).
+[WebdriverIO](https://webdriver.io/) is an open source testing utility for Node.js. It has all implementations of [WebDriver protocol](https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol) commands and also supports special bindings for [Appium](http://appium.io/).
 
-There are **only** mobile API commands. For all available WebdriverIO API commands check out [this package](https://atom.io/packages/webdriverio-snippets).
+There are **only** mobile API commands. For all available [WebdriverIO **v4** API](http://v4.webdriver.io/api.html) commands check out [this package](https://atom.io/packages/webdriverio-snippets).
 
 ### How to use
 
